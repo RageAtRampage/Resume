@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
+import './Mihul_Singh_Solanki_Resume.pdf'
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
