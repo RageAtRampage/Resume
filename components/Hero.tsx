@@ -57,9 +57,9 @@ export const Hero: React.FC = () => {
             <a href={PROFILE.social.linkedin} target="_blank" rel="noreferrer" className="hover:text-white transition-colors">
               <Linkedin size={24} />
             </a>
-            <a href={`mailto:${PROFILE.email}`} className="hover:text-white transition-colors">
+            {/* <a href={`mailto:${PROFILE.email}`} className="hover:text-white transition-colors">
               <Mail size={24} />
-            </a>
+            </a> */}
             <div className="flex items-center gap-2 text-sm border-l border-slate-700 pl-6 ml-2">
               <MapPin size={16} />
               <span>{PROFILE.location}</span>
