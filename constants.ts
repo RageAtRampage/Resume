@@ -7,7 +7,7 @@ export const PROFILE: Profile = {
   email: "mihulsolanki1998@gmail.com",
   phone: "",
   summary: "I’m a backend engineer with 5+ years of experience building scalable, reliable, and sometimes surprisingly smart systems. I enjoy turning complex business problems into clean microservices—and occasionally teaching machines how to talk back.",
-  resumeUrl: "/Mihul_Singh_Solanki_Resume.pdf",
+  resumeUrl: "Mihul_Singh_Solanki_Resume.pdf",
   social: {
     linkedin: "https://in.linkedin.com/in/mihul-singh-solanki-a74594178/",
     github: "https://github.com/RageAtRampage",

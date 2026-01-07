@@ -39,7 +39,7 @@ export const Hero: React.FC = () => {
             {PROFILE.resumeUrl && (
               <a 
                 href={PROFILE.resumeUrl}
-                download
+                download="Mihul_Singh_Solanki_Resume.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="w-full sm:w-auto px-8 py-3 bg-slate-800 hover:bg-slate-700 text-white font-medium rounded-lg transition-colors border border-slate-700 flex items-center justify-center gap-2"
