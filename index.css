@@ -1,0 +1,9 @@
+/* Global styles */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* 
+  Tailwind CSS is loaded via CDN in index.html to ensure compatibility 
+  without requiring a complex build step setup for this environment.
+*/
